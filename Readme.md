@@ -12,7 +12,7 @@
 
 ---
 
-### Notable Skills:
+## Notable Skills:
 
 <table>
     <tr>
