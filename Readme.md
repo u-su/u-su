@@ -2,7 +2,7 @@
 
 ---
 
-## Experience:
+## Experience
 
 - Visiting Lecturer (Engineering / IT) - SLTMobitel Nebula Institute of Technology
 - Postgraduate Research Student - FPGR, SLTC Research University
@@ -12,7 +12,7 @@
 
 ---
 
-## Notable Skills:
+## Notable Skills
 
 <table>
     <tr>
